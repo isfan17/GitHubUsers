@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+
+    <string name="title_users">Users</string>
+    <string name="title_favorites">Favorites</string>
+
+    <string name="user_avatar">User Avatar</string>
+    <string name="user_name">User Name</string>
+    <string name="user_username">Username</string>
+    <string name="user_url">https://github.com/user</string>
+    <string name="user_company">Google, Goto</string>
+    <string name="user_location">Indonesia</string>
+
+    <string name="app_logo">App Logo</string>
+
+    <string name="detail_bar_title">User Detail</string>
+    <string name="detail_user_tab_layout">Detail User Tab Layout</string>
+
+    <string name="zero">0</string>
+    <string name="repositories">repositories</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+
+    <string name="no_followers">This user have no followers</string>
+    <string name="no_following">This user doesn`t follow anyone</string>
+
+    <string name="tab_title_0">Description</string>
+    <string name="tab_title_1">Followers</string>
+    <string name="tab_title_2">Following</string>
+    <string name="no_favorites_msg">You Don`t Have Favorite Users</string>
+
+    <string name="btn_back_desc">Back</string>
+    <string name="btn_share_desc">Share</string>
+    <string name="btn_change_theme_desc">Change App Theme</string>
+    <string name="btn_search_desc">Search</string>
+    <string name="img_no_result_desc">No Result</string>
+    <string name="no_users_found">No Users Found</string>
+
+    <string name="network_error_msg">Error Occurred, Please Check Your Internet Connection</string>
+</resources>
